@@ -6,6 +6,9 @@
     "license": "MIT",
     "require": {
         "php": "^8.2",
+        "blade-ui-kit/blade-heroicons": "^2.3",
+        "blade-ui-kit/blade-icons": "^1.6",
+        "codeat3/blade-teeny-icons": "^1.10",
         "filament/filament": "^3.2",
         "flowframe/laravel-trend": "^0.2.0",
         "jeffgreco13/filament-breezy": "^2.4",

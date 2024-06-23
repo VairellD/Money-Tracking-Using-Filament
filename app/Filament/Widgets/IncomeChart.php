@@ -63,10 +63,10 @@ class IncomeChart extends LineChartWidget
                 ],
                 [
                     'label' => 'Expense Count',
-                    'data' => $monthlyExpenseSum,
+                    'data' => $monthlyExpenseSum, // Expense sums for each month
                     'backgroundColor' => '#36A2EB',
-                    'borderColor' => '#9BD0F5',
-                    'colors' =>"#123123", // Expense sums for each month 
+                    'borderColor' => '#36A2EB',
+                     
                 ],
             ],
         ];
